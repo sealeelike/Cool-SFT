@@ -1,5 +1,3 @@
-# Cool-LLM / poopTrain
-
 > ⚠️ **Work in progress — currently archived.**  
 > No active development at the moment; the repo is kept here for reference.
 
